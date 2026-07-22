@@ -77,6 +77,7 @@ contact.dsknexus@gmail.com
 
 - Instagram: @dsknexus
 - Facebook: DSK Nexus
+- Instagram: @dsknexus
 
 ---
 
