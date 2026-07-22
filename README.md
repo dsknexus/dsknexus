@@ -4,7 +4,7 @@
 
 # DSK Nexus
 
-**Independent software company building digital products that solve real problems.**
+**Independent software company building digital products that solve real-world problems.**
 
 </div>
 
@@ -12,11 +12,11 @@
 
 ## About
 
-DSK Nexus is an independent software company focused on building practical digital products designed around real-world needs.
+DSK Nexus is an independent software company focused on building practical technology solutions designed around real-world needs.
 
-We create software that improves access to information, opportunities, and digital experiences for communities.
+We create digital products that improve access to information, opportunities, and better digital experiences.
 
-Our approach is simple: identify problems, build useful solutions, and create products that make a meaningful impact.
+Our approach is simple: understand problems, build useful solutions, and create technology that delivers meaningful impact.
 
 ---
 
@@ -24,16 +24,16 @@ Our approach is simple: identify problems, build useful solutions, and create pr
 
 ### MatricBase 🇿🇦
 
-MatricBase is an education platform helping South African Grade 12 learners navigate their future after high school.
+**MatricBase** is an education platform helping South African Grade 12 learners navigate their journey after high school.
 
-The platform provides:
+The platform provides learners with tools and resources for:
 
-- University requirements
-- Application guidance
+- University requirements and admission guidance
+- Application support
 - APS calculations
 - Past papers and study resources
 - Bursary opportunities
-- Career information
+- Career exploration
 
 Website: https://matricbase.co.za
 
@@ -44,37 +44,44 @@ Website: https://matricbase.co.za
 **Siyanda Nonkala**  
 Founder, DSK Nexus
 
-Software builder and product creator focused on turning ideas into useful digital products.
+Software builder and product creator focused on turning ideas into useful digital products that solve real problems.
 
 ---
 
 ## Technology
 
-Building with:
+DSK Nexus builds with modern technologies across:
 
-- Web technologies
+- Web applications
 - Mobile applications
 - Cloud platforms
-- Modern software tools
+- Software development tools
 
 ---
 
 ## Vision
 
-To build digital products that solve meaningful problems and create better experiences for people.
+To build technology products that make information, opportunities, and digital experiences more accessible for people and communities.
 
 ---
 
 ## Links
 
-🌐 Website: https://dsknexus.co.za
+🌐 Website  
+https://dsknexus.co.za
 
-📧 Email: contact.dsknexus@gmail.com
+📧 Email  
+contact.dsknexus@gmail.com
 
-📱 Social:
+📱 Social Media
+
 - Instagram: @dsknexus
 - Facebook: DSK Nexus
 
 ---
 
-© DSK Nexus
+<div align="center">
+
+Built by DSK Nexus 🇿🇦
+
+</div>
