@@ -1,16 +1,28 @@
-## Hi there 👋
+# DSK Nexus
 
-<!--
-**dsknexus/dsknexus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent software company building digital products that solve real problems.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+DSK Nexus creates practical software solutions designed around real-world needs.
+
+Our focus is building products that improve access to information, opportunities, and digital experiences.
+
+## Products
+
+### MatricBase 🇿🇦
+
+An education platform helping South African Grade 12 learners navigate:
+
+- University requirements
+- Applications
+- Past papers and study resources
+- Career opportunities
+
+## Website
+
+https://dsknexus.co.za
+
+## Contact
+
+contact.dsknexus@gmail.com
