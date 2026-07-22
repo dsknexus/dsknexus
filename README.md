@@ -22,7 +22,7 @@ Our approach is simple: understand problems, build useful solutions, and create 
 
 ## Products
 
-### MatricBase 🇿🇦
+### MatricBase 
 
 **MatricBase** is an education platform helping South African Grade 12 learners navigate their journey after high school.
 
@@ -82,6 +82,6 @@ contact.dsknexus@gmail.com
 
 <div align="center">
 
-Built by DSK Nexus 🇿🇦
+Built by DSK Nexus 🇿🇦 
 
 </div>
