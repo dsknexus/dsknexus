@@ -4,7 +4,7 @@
 
 # DSK Nexus
 
-**Independent software company building digital products that solve real-world problems.**
+**Independent software venture building digital products that solve real-world problems.**
 
 </div>
 
@@ -12,9 +12,9 @@
 
 ## About
 
-DSK Nexus is an independent software company focused on building practical technology solutions designed around real-world needs.
+DSK Nexus is an independent software venture focused on building practical digital products designed around real-world needs.
 
-We create digital products that improve access to information, opportunities, and better digital experiences.
+We create products that improve access to information, opportunities, and better digital experiences.
 
 Our approach is simple: understand problems, build useful solutions, and create technology that delivers meaningful impact.
 
@@ -22,7 +22,7 @@ Our approach is simple: understand problems, build useful solutions, and create 
 
 ## Products
 
-### MatricBase 
+### MatricBase 🇿🇦
 
 **MatricBase** is an education platform helping South African Grade 12 learners navigate their journey after high school.
 
@@ -77,12 +77,11 @@ contact.dsknexus@gmail.com
 
 - Instagram: @dsknexus
 - Facebook: DSK Nexus
-- Instagram: @dsknexus
 
 ---
 
 <div align="center">
 
-Built by DSK Nexus 🇿🇦 
+Built by DSK Nexus 🇿🇦
 
 </div>
